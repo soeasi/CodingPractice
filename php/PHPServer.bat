@@ -1,1 +1,1 @@
-php -S localhost:80 -t "D:\mine\code\PHP"
+php -S localhost:80 -t "D:\mine\code"
